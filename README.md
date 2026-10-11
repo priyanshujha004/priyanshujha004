@@ -13,8 +13,8 @@ const priyanshu = {
   education: "B.Tech CSE · ABES Engineering College, 2027",
   focus: ["full-stack web", "REST APIs", "auth & security"],
   solved: "450+ DSA problems",
-  buildingNow: "SyncCare (ML + backend)",
-  learning: ["system design", "MERN in depth"],
+  buildingNow: "SyncCare (ML + Backend)",
+  learning: ["System Design"],
 };
 ```
 
@@ -39,10 +39,10 @@ Healthcare appointment scheduling for patients and doctors, replacing a manual b
 
 `React 19` `Node.js` `Express 5` `PostgreSQL` `Prisma` `JWT` `Docker`
 
-[Live demo](https://healthcare-medora.vercel.app/) · [Source](https://github.com/priyanshujha004/medora)
+[Live](https://healthcare-medora.vercel.app/) · [Source](https://github.com/priyanshujha004/medora)
 
 ### 02 · UPIQ
-`Live` `Team` `My part: frontend`
+`Live` `Team` `Frontend`
 
 Personal finance tracker that parses bank PDF statements into categorized transactions, secured with JWT.
 
@@ -52,10 +52,10 @@ Personal finance tracker that parses bank PDF statements into categorized transa
 
 `React` `Spring Boot` `PostgreSQL` `JWT` `Docker`
 
-[Live site](https://upiq.vercel.app) · [Source (team repo)](https://github.com/yourxharsh19/UPIQ-PROD)
+[Live](https://upiq.vercel.app) · [Source](https://github.com/yourxharsh19/UPIQ-PROD)
 
 ### 03 · SyncCare
-`In progress` `Team` `My part: ML & backend`
+`On-going`
 
 Healthcare platform for patients and doctors with AI-assisted features. Informational only, not a medical diagnosis.
 
